@@ -1,4 +1,4 @@
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = `lc-${VERSION}`;
 const ASSETS = ['./', './index.html', './manifest.json'];
 
