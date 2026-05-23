@@ -1,0 +1,25 @@
+{
+  "name": "Event Recorder",
+  "short_name": "Events",
+  "description": "Record timestamps of observed events with configurable buttons.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20192%20192'%3E%3Crect%20width='192'%20height='192'%20rx='42'%20fill='%231e88e5'/%3E%3Cg%20stroke='%23fff'%20stroke-width='16'%20stroke-linecap='round'%20fill='none'%3E%3Cline%20x1='56'%20y1='56'%20x2='56'%20y2='136'/%3E%3Cline%20x1='84'%20y1='56'%20x2='84'%20y2='136'/%3E%3Cline%20x1='112'%20y1='56'%20x2='112'%20y2='136'/%3E%3Cline%20x1='140'%20y1='56'%20x2='140'%20y2='136'/%3E%3Cline%20x1='46'%20y1='130'%20x2='150'%20y2='62'/%3E%3C/g%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20512%20512'%3E%3Crect%20width='512'%20height='512'%20rx='112'%20fill='%231e88e5'/%3E%3Cg%20stroke='%23fff'%20stroke-width='42'%20stroke-linecap='round'%20fill='none'%3E%3Cline%20x1='150'%20y1='150'%20x2='150'%20y2='362'/%3E%3Cline%20x1='224'%20y1='150'%20x2='224'%20y2='362'/%3E%3Cline%20x1='298'%20y1='150'%20x2='298'%20y2='362'/%3E%3Cline%20x1='372'%20y1='150'%20x2='372'%20y2='362'/%3E%3Cline%20x1='122'%20y1='346'%20x2='400'%20y2='166'/%3E%3C/g%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
